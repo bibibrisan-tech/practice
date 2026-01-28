@@ -7,8 +7,8 @@ public TangibleAsset(String name, int price, String color){
   this.price=price;
   this.color=color
     }
-  public String getName(){retum this.name;}
-  public int getPrice(){retum this.price;}
-  public String getColor(){retum this.color;}
+  public String getName(){retun this.name;}
+  public int getPrice(){retun this.price;}
+  public String getColor(){retun this.color;}
 }
 
